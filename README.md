@@ -1,7 +1,7 @@
 
 # Maven Fuzzy Factory — Executive Business Intelligence Dashboard
 
-[🚀 View Live Interactive Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiYmRkNTlhYzctODU3ZS00YzJlLThjODUtMzc3NjkxZWVlMjRhIiwidCI6IjUwOTE2YjViLWM4MmUtNGJlNC05YmIyLWFkN2YzYmI3ZTAzYyJ9))
+[🚀 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRkNTlhYzctODU3ZS00YzJlLThjODUtMzc3NjkxZWVlMjRhIiwidCI6IjUwOTE2YjViLWM4MmUtNGJlNC05YmIyLWFkN2YzYmI3ZTAzYyJ9)
 
 ## Project Overview
 An executive 3-page Power BI dashboard designed to analyze financial performance, product economics, conversion funnel drop-offs, and channel traffic for Maven Fuzzy Factory (2012–2015).
